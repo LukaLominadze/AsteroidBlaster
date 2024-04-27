@@ -13,3 +13,7 @@ Open the command prompt in the desired destination and simply clone the reposito
 <ins>**2. Building the project:**</ins>
 
 Open the project directory from the Unity Hub and the project will be built.
+
+<ins>**3. Packages:**</ins>
+
+This project uses the URP Unity package.
